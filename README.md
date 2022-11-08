@@ -9,8 +9,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt
- with over 4 years of experience in building high-quality and meaningful products 
+I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 4 years of experience in building high-quality and meaningful products 
 
  
 - 💻 : I’m working as a Software Engineer and contributing to frontend and backend for building Mobile applications.
